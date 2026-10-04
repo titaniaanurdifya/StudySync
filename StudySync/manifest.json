@@ -1,0 +1,21 @@
+{
+  "name": "StudySync App",
+  "short_name": "StudySync",
+  "description": "Aplikasi produktivitas mahasiswa untuk mengatur jadwal dan tugas.",
+  "start_url": "./index.php",
+  "display": "standalone",
+  "background_color": "#F8F9FD",
+  "theme_color": "#F472B6",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
